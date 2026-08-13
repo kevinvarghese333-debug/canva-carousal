@@ -27,7 +27,12 @@ then updated through 2024-2025)
 - In FY24, proprietary trading firms and foreign portfolio investors
   (FPIs) recorded gross trading profits of about ₹33,000 crore and
   ₹28,000 crore respectively (before transaction costs) in the same
-  derivatives market where most individual traders lost money.
+  derivatives market where most individual traders lost money. On
+  slide 7 of the final carousel these two figures are combined and
+  rounded to "₹61,000 crore in gross profits" for a single punchy
+  on-slide number; this is a simple arithmetic sum of the two reported
+  FY24 figures (33,000 + 28,000), not a separately reported SEBI
+  statistic.
 - A later SEBI update (covering FY24-25, released mid-2025) found losses
   continuing to widen: about 91% of individual traders lost money, with
   net losses rising to roughly ₹1.05 lakh crore in FY24-25 (up from about
